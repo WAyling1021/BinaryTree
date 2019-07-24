@@ -1,0 +1,2 @@
+\\Mac\Home\Desktop\BinarySearchTreeAssignment\obj\Debug\BinarySearchTreeAssignment.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\BinarySearchTreeAssignment\obj\Debug\BinarySearchTreeAssignment.csproj.CoreCompileInputs.cache
